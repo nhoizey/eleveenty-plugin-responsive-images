@@ -42,7 +42,7 @@
     "eslint-config-prettier": "6.11.0",
     "eslint-plugin-prettier": "3.1.4",
     "prettier": "2.1.1",
-    "np": "6.4.0"
+    "np": "6.5.0"
   },
   "dependencies": {
     "images-responsiver": "^1.6.4"
